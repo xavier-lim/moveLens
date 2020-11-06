@@ -1,7 +1,7 @@
-# MovieLens: edX Harvard Data Science Capstone Project
+# MovieLens: Harvard edX Data Science Capstone Project
 ![Header](https://github.com/xavier-lim/movieLens/blob/main/images/movieLens_header.jpg)
 
-As part of Harvard's Data Science Course (edX) Capstone Project, I created a model to predict user ratings of movies, similar to Netflix's movie recommendation system. These predictions are made using average movie ratings and average user ratings. Ultimately, this type of analysis can be utilized to make tailored consumer recommendations which could increase revenue and improve customer retention.
+As part of Harvard's edX Data Science Course Capstone Project, I created a model to predict user ratings of movies, similar to Netflix's movie recommendation system. These predictions are made using average movie ratings and average user ratings. Ultimately, this type of analysis can be utilized to make tailored consumer recommendations which could increase revenue and improve customer retention.
 
 ## Table of Contents
 1.	[Project Tools](https://github.com/xavier-lim/movieLens#project-tools)
