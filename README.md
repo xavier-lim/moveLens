@@ -16,7 +16,7 @@ As part of Harvard's edX Data Science Course Capstone Project, I created a model
 *	MovieLens Dataset (10M Version)
 
 ## Data Source
-All the data for this project was collected from [GroupLens](https://grouplens.org/datasets/movielens/10m/). The dataset presents information about 10 million movie ratings including user id, movie id, user rating of the movie, timestamp of the rating, title of the movie, and movie genre(s).
+All the data for this project was collected from [GroupLens](https://grouplens.org/datasets/movielens/10m/). The dataset presents information about **10 million** movie ratings including user id, movie id, user rating of the movie, timestamp of the rating, title of the movie, and movie genre(s).
 
 ## Results
 
