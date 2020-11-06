@@ -12,7 +12,7 @@ As part of Harvard's edX Data Science Course Capstone Project, I created a model
 
 ## Project Tools
 *	R
-*	R Studio 
+*	R Studio - [RStudio Desktop](https://rstudio.com/products/rstudio/download/)
 *	MovieLens Dataset (10M Version)
 
 ## Data Source
