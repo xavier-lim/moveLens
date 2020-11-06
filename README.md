@@ -1,2 +1,2 @@
-# moveLens
-Movie rating prediction model
+# MovieLens Project: edX Harvard Data Science Capstone Project
+
